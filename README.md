@@ -1,2 +1,2 @@
-#Mi Proyecto
+* Mi Proyecto
 Este es un proyecto de prueba con Git
